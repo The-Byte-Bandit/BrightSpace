@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .home {
-  background-image: url("assets/images/bg.jpg");
+  background-image: url("assets/images/bgd.jpeg");
   background-color: #f5f5f5; /* Light gray as fallback */
   background-size: cover; /* Adjust how the image is displayed */
   background-repeat: no-repeat;
